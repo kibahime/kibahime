@@ -30,4 +30,6 @@ ___
 - 🎮 [itch.io](https://kibahime.itch.io)
 - 🎨 [pixiv](https://www.pixiv.net/en/users/120491570)
 - 🌀 [DeviantArt](https://www.deviantart.com/realkibahime)
+- 🦋 [Bluesky](https://bsky.app/profile/kibahime.bsky.social)
+- 🤖 [Reddit](https://www.reddit.com/user/realkibahime)
 - 📺 [YouTube](https://youtube.com/@kibahime)
