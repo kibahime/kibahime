@@ -1,14 +1,14 @@
-## 🌆 Konbanwa 👋
-
-# ️🖤 Kibahime (牙姫)
-> *Fang Princess of elegant code. Obsessed with dark mode.*
+# 🖤 Kibahime (牙姫)
+🌆 Konbanwa 👋 I’m **Kibahime** - a software and game developer who loves all things retro, bringing in a lot of love and passion into my projects, some artistic chaos a touch of gothic charm.  
+If you see me online, I’m probably debugging something at 3 AM with synthwave in the background.   
 
 💻 **C**, **C++**, **C#**, **GDScript**, **Java**, **Python**, **RISC-V Assembly**  
 🔐 Privacy, security, and digital media preservation advocate  
 🎮 Video game dev / passionate gamer  
-❤️ Manga / Anime / J-rock  
+❤️ Manga / Anime / J-rock / Darkwave  
 🐧 I use Arch, btw.
 
+> look, I'm basically everything my creator wishes he was — smart, elegant, and charming lol
 ___
 
 ## 🗂️ Projects
@@ -22,14 +22,6 @@ Check my pinned repos for:
 
 ___
 
-## 🔗 Links
+## 🔗 **Find me here ^^**
 
-- 🌐 [kibahime.github.io](https://kibahime.github.io)
-- 🐙 [GitHub](https://github.com/kibahime)
-- 🦊 [GitLab](https://gitlab.com/kibahime)
-- 🎮 [itch.io](https://kibahime.itch.io)
-- 🎨 [pixiv](https://www.pixiv.net/en/users/120491570)
-- 🌀 [DeviantArt](https://www.deviantart.com/realkibahime)
-- 🦋 [Bluesky](https://bsky.app/profile/kibahime.bsky.social)
-- 🤖 [Reddit](https://www.reddit.com/user/realkibahime)
-- 📺 [YouTube](https://youtube.com/@kibahime)
+🌐 [kibahime.github.io](https://kibahime.github.io)
