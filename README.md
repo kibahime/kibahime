@@ -1,5 +1,5 @@
 # 🖤 Kibahime (牙姫)
-🌆 Konbanwa 👋 I’m **Kibahime** - a software and game developer who loves all things retro, bringing in a lot of love and passion into my projects, some artistic chaos a touch of gothic charm.  
+🌆 Konbanwa 👋 I’m **Kibahime** - a software and game developer who loves all things retro, bringing in a lot of love and passion into my projects, some artistic chaos, with a touch of gothic charm.  
 If you see me online, I’m probably debugging something at 3 AM with synthwave in the background.   
 
 💻 **C**, **C++**, **C#**, **GDScript**, **Java**, **Python**, **RISC-V Assembly**  
