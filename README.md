@@ -16,6 +16,7 @@ ___
 Check my pinned repos for:
 - 📁 Dotfiles and scripts
 - ✨ My Arch + Hyprland config!
+- 📑 Useful (hopefully) docs and tech tips
 - 🎮 Game-related tools, experiments and tests
 
 ...and more to come!
@@ -25,3 +26,5 @@ ___
 ## 🔗 **Find me here ^^**
 
 🌐 [kibahime.github.io](https://kibahime.github.io)
+
+<img src="https://github.com/kibahime/kiba-assets/blob/e45ca120e14e5fa8688e2692e16bdfcd3d89c758/emoji/2048x2048/happy.png" alt="happy" width=100>
