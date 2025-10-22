@@ -27,4 +27,4 @@ ___
 
 🌐 [kibahime.github.io](https://kibahime.github.io)
 
-<img src="https://github.com/kibahime/kiba-assets/blob/e45ca120e14e5fa8688e2692e16bdfcd3d89c758/emoji/2048x2048/happy.png" alt="happy" width=100>
+<img src="https://raw.githubusercontent.com/kibahime/kiba-assets/refs/heads/main/emoji/1024x1024/happy_1024.png" alt="happy" width=100>
